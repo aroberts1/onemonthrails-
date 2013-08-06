@@ -12,4 +12,5 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= reqyure biitstrao
 //= require_tree .
